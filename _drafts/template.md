@@ -13,7 +13,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 04-09-2020 Add new board section permanently
+Template last updated on 04-15-2020 Change podcast URL to short version Kattni got
 
 View this email in your browser.
 
@@ -21,19 +21,27 @@ Hi everyone! It's the latest Python for Microcontrollers newsletter, brought you
 
 ## Headline Article
 
-[![title](../assets/020200mdd/20200mdd-name.jpg)](https://circuitpython.org/)
+[![title](../assets/20200mdd/20200mdd-name.jpg)](https://circuitpython.org/)
 
 Text
 
 ## Adafruit Update
 
-[![Adafruit Heart NNew York](../assets/03312020/03312020heart.jpg)](https://blog.adafruit.com/2020/03/22/covid/)
+[![Adafruit Heart New York](../assets/20200mdd/03312020heart.jpg)](https://blog.adafruit.com/2020/03/22/covid/)
 
 Adafruit Industries continues to run with 100% of employees being paid and continuing to work. Most are working remotely, with some working in the Manhattan, New York factory as an essential service and business under NYC Executive Order 202.6 Capabilities. Adafruit was deemed an essential service to distribute/make some PPE (Personal Protection Equipment) such as face shields, and manufacturer electronics for essential life-saving/preserving equipment and development which is needed in New York and beyond. -[Blog](https://blog.adafruit.com/2020/03/22/covid/)
 
 The CircuitPython team is going full steam ahead in development and rollout. We're expecting CircuitPython 5.1.0 to be stable and released soon and features for 5.2.x are being discussed. Would you like to join us? On Discord, head to https://adafru.it/discord to discuss things. And check out [Awesome CircuitPython](https://github.com/adafruit/awesome-circuitpython/blob/master/README.md) for a wide range of information.
 
 *Ed: Are you working on projects with CircuitPython or have good CircuitPython/MicroPython/Python news? Tag your material on Twitter with hashtag #CircuitPython. I'll scan and include items for the next newsletter. Thanks!*
+
+## Adafruit hardware being certified Open Source
+
+[![Adafruit Boards and OSHWA](../assets/2020mmdd/2020mmdd-oshwa.jpg)](https://certification.oshwa.org/list.html?q=Adafruit)
+
+Adafruit has always been an open source hardware company, predating the [Open Source Hardware Association](https://oshwa.org) (OSHWA) certification process. We have begun submitting all of our hardware to OSHWA for certification as Open Source. This week **NNN** new boards were certified including:
+
+* [Board-name](url)
 
 ## News from around the web!
 
@@ -51,11 +59,11 @@ Why Mu? Mu tries to make it as easy as possible to get started with programming 
 
 ## New Boards Supported by CircuitPython
 
-The number of supported microcontrollers and Single Board Computers (SBC) grows every week. This section outlines which boards have been added to [CircuitPython.org](https://circuitpython.org/).
+The number of supported microcontrollers and Single Board Computers (SBC) grows every week. This section outlines which boards have been included in CircuitPython or added to [CircuitPython.org](https://circuitpython.org/).
 
 This week we had X new boards added!
 
-- board link
+- [Board name](url)
 
 Looking for adding a new board to CircuitPython? It's highly encouraged! Adafruit has two guides to help you do so:
 
@@ -78,7 +86,7 @@ Looking for adding a new board to CircuitPython? It's highly encouraged! Adafrui
 
 ## CircuitPython Libraries!
 
-[![CircuitPython Libraries](../assets/20200mdd/020200mdd-blinka.png)](https://circuitpython.org/libraries)
+[![CircuitPython Libraries](../assets/20200mdd/20200mdd-blinka.png)](https://circuitpython.org/libraries)
 
 CircuitPython support for hardware continues to grow. We are adding support for new sensors and breakouts all the time, as well as improving on the drivers we already have. As we add more libraries and update current ones, you can keep up with all the changes right here!
 
@@ -218,7 +226,7 @@ The Adafruit Discord community, where we do all our CircuitPython development in
 
 The wonderful world of Python on hardware! This is our first video-newsletter-podcast that we’ve started! The news comes from the Python community, Discord, Adafruit communities and more. It’s part of the weekly newsletter, then we have a segment on ASK an ENGINEER and this is the video slice from that! The complete Python on Hardware weekly videocast [playlist is here](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev). 
 
-This video podcast is on [iTunes](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2), [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev), [IGTV (Instagram TV](https://www.instagram.com/adafruit/channel/)), and [XML](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2).
+This video podcast is on [iTunes](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2), [YouTube](http://adafru.it/pohepisodes), [IGTV (Instagram TV](https://www.instagram.com/adafruit/channel/)), and [XML](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2).
 
 [Weekly community chat on Adafruit Discord server CircuitPython channel - Audio / Podcast edition](https://itunes.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016) - Audio from the Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET, this is the audio version on [iTunes](https://itunes.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016), Pocket Casts, [Spotify](https://adafru.it/spotify), and [XML feed](https://adafruit-podcasts.s3.amazonaws.com/circuitpython_weekly_meeting/audio-podcast.xml).
 
