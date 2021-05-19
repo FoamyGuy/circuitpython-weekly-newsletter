@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2020-02-11 07:00:00 -0800
+date: 2021-05-25 07:00:00 -0800
 categories: weekly
 ---
 
@@ -9,53 +9,81 @@ categories: weekly
 - [ ] change date
 - [ ] update title
 - [ ] Feature story
-- [ ] Update [![](../assets/DIR-LOCATION/)]() for images
+- [ ] Update [![](../assets/2021mmdd/)]() for images
+- [ ] Update ICYDNCI
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Template last updated on 04-15-2020 Change podcast URL to short version Kattni got
+News Sources
+
+- [python.org](https://www.python.org/)
+- [Python Insider - dev team blog](https://pythoninsider.blogspot.com/)
+
+Template last updated on 2021-05-17 by Anne - add PyConline AU
 
 View this email in your browser.
 
-Hi everyone! It's the latest Python for Microcontrollers newsletter, brought you by the community! We're on [Discord](https://discord.gg/HYqvREz), [Twitter](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). If you're reading this on the web, [subscribe here](https://www.adafruitdaily.com/). Let's get started!
+Welcome to the latest Python on Microcontrollers newsletter, brought you by the community! We're on [Discord](https://discord.gg/HYqvREz), [Twitter](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). If you're reading this on the web, [subscribe here](https://www.adafruitdaily.com/). Let's get started!
 
 ## Headline Article
 
-[![title](../assets/20200mdd/20200mdd-name.jpg)](https://circuitpython.org/)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
-Text
+text - [site](url)
 
-## Adafruit Update
+## Feature
 
-[![Adafruit Heart New York](../assets/20200mdd/03312020heart.jpg)](https://blog.adafruit.com/2020/03/22/covid/)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
-Adafruit Industries continues to run with 100% of employees being paid and continuing to work. Most are working remotely, with some working in the Manhattan, New York factory as an essential service and business under NYC Executive Order 202.6 Capabilities. Adafruit was deemed an essential service to distribute/make some PPE (Personal Protection Equipment) such as face shields, and manufacturer electronics for essential life-saving/preserving equipment and development which is needed in New York and beyond. -[Blog](https://blog.adafruit.com/2020/03/22/covid/)
+text - [site](url)
 
-The CircuitPython team is going full steam ahead in development and rollout. We're expecting CircuitPython 5.1.0 to be stable and released soon and features for 5.2.x are being discussed. Would you like to join us? On Discord, head to https://adafru.it/discord to discuss things. And check out [Awesome CircuitPython](https://github.com/adafruit/awesome-circuitpython/blob/master/README.md) for a wide range of information.
+## Feature
 
-*Ed: Are you working on projects with CircuitPython or have good CircuitPython/MicroPython/Python news? Tag your material on Twitter with hashtag #CircuitPython. I'll scan and include items for the next newsletter. Thanks!*
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
-## Adafruit hardware being certified Open Source
+text - [site](url)
 
-[![Adafruit Boards and OSHWA](../assets/2020mmdd/2020mmdd-oshwa.jpg)](https://certification.oshwa.org/list.html?q=Adafruit)
+## CircuitPython Deep Dive Stream with Scott Shawcroft
 
-Adafruit has always been an open source hardware company, predating the [Open Source Hardware Association](https://oshwa.org) (OSHWA) certification process. We have begun submitting all of our hardware to OSHWA for certification as Open Source. This week **NNN** new boards were certified including:
+[![Deep Dive with Scott](../assets/2021mmdd/2021mmdddeepdive.jpg)](link)
 
-* [Board-name](url)
+[This week](link), Scott streams his work on .
+
+You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXBHlu9msoXq2jQN4JpCk8A).
 
 ## News from around the web!
 
-[![title](../assets/20200mdd/20200mdd-name.jpg)](https://circuitpython.org/)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
-Text
+text - [site](url).
 
-#ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)? [title](url).
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
 
-## Made with Mu
+text - [site](url).
 
-Why Mu? Mu tries to make it as easy as possible to get started with programming but aims to help you graduate to "real" development tools soon after. Everything in Mu is the "real thing" but presented in as simple and obvious way possible. It's like the toddling stage in learning to walk: you're finding your feet and once you're confident, you should move on and explore! Put simply, Mu aims to foster autonomy. Try out Mu today! - [codewith.mu](https://codewith.mu/)
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
+
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
+
+**#ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)? [title](url).**
 
 ## Coming soon
+
+[![title](../assets/2021mmdd/2021mmdd-name.jpg)](url)
+
+text - [site](url).
 
 ## New Boards Supported by CircuitPython
 
@@ -65,7 +93,7 @@ This week we had X new boards added!
 
 - [Board name](url)
 
-Looking for adding a new board to CircuitPython? It's highly encouraged! Adafruit has two guides to help you do so:
+Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit has four guides to help you do so:
 
 - [How to Add a New Board to CircuitPython](https://learn.adafruit.com/how-to-add-a-new-board-to-circuitpython/overview)
 - [How to add a New Board to the circuitpython.org website](https://learn.adafruit.com/how-to-add-a-new-board-to-the-circuitpython-org-website)
@@ -74,27 +102,55 @@ Looking for adding a new board to CircuitPython? It's highly encouraged! Adafrui
 
 ## New Learn Guides!
 
-[![title](../assets/20200mdd/20200mdd-name.jpg)](https://learn.adafruit.com/)
+[![New Learn Guides](../assets/2021mmdd/2021mmddlearn.jpg)](https://learn.adafruit.com/guides/latest)
 
 [title](url) from [name](url)
 
-## Updated Guides - Now With More Python!
+[title](url) from [name](url)
 
-**You can use CircuitPython libraries on Raspberry Pi!** We're updating all of our CircuitPython guides to show how to wire up sensors to your Raspberry Pi, and load the necessary CircuitPython libraries to get going using them with Python. We'll be including the updates here so you can easily keep track of which sensors are ready to go. Check it out!
+[title](url) from [name](url)
 
-[title](url)
+## Updated Learn Guides!
+
+[title](url) from [name](url)
+
+## CircuitPython Project Bundle
+
+[![BundleFly](../assets/2021mmdd/2021mmddbundlefly.jpg)](https://learn.adafruit.com/)
+
+When you get to the CircuitPython code section of an [Adafruit Learn Guide](https://learn.adafruit.com/), sometimes things can get a bit complicated. You not only have the code you need to upload to your device, but you likely also need to add some libraries that the code requires to run. This involved downloading all the libraries, digging through to find the ones you need, and copying them to your device. That was only the beginning on some projects, as those that include images and/or sound files required further downloading and copying of files. But, not anymore!
+
+Now, with Project Bundles, you can download all the necessary code, libraries and, if needed, asset files with one click! We automatically check which libraries are required for the project and bundle them up for you. No more digging through a huge list of libraries to find the ones you need, or fiddling with looking for other files or dependencies. Download the Project Bundle, copy the contents to your device, and your code will simply work. We wanted to make this the easiest way to get a project working, regardless of whether you're a beginner or an expert. We'll also be adding this feature to popular IDEs as an add-on. Try it out with any Circuit Python guide on the Adafruit Learning System. Just look for the ‘Download Project Bundle’ button on the code page. 
+
+**To download and use a Project Bundle:**
+
+In the Learning System - above any embedded code in a guide in the Adafruit Learn System, you’ll find a Download Project Bundle button.
+
+[![Project Bundle download button](../assets/2021mmdd/2021mmddpblink.jpg)](https://learn.adafruit.com/)
+
+Click the button to download the Project Bundle zip.
+
+[![Project Bundle zip downloaded](../assets/2021mmdd/2021mmddpbzipfile.jpg)](https://learn.adafruit.com/)
+
+Open the Project Bundle zip to find the example code, all necessary libraries, and, if available, any images, sounds, etc.
+
+[![Project Bundle unzipped](../assets/2021mmdd/2021mmddpbdownload.jpg)](https://learn.adafruit.com/)
+
+Simply copy all the files over to your CIRCUITPY drive, and you’re ready to go!
+
+If you run into any problems or bugs, or would like to submit feedback, please file an issue on the [Adafruit Learning System Guides GitHub repo](https://github.com/adafruit/Adafruit_Learning_System_Guides/issues).
 
 ## CircuitPython Libraries!
 
-[![CircuitPython Libraries](../assets/20200mdd/20200mdd-blinka.png)](https://circuitpython.org/libraries)
+[![CircuitPython Libraries](../assets/2021mmdd/blinka.png)](https://circuitpython.org/libraries)
 
 CircuitPython support for hardware continues to grow. We are adding support for new sensors and breakouts all the time, as well as improving on the drivers we already have. As we add more libraries and update current ones, you can keep up with all the changes right here!
 
-For the latest drivers, download the [Adafruit CircuitPython Library Bundle](https://circuitpython.org/libraries).
+For the latest libraries, download the [Adafruit CircuitPython Library Bundle](https://circuitpython.org/libraries). For the latest community contributed libraries, download the [CircuitPython Community Bundle](https://github.com/adafruit/CircuitPython_Community_Bundle/releases).
 
-If you'd like to contribute, CircuitPython libraries are a great place to start. Have an idea for a new driver? File an issue on [CircuitPython](https://github.com/adafruit/circuitpython/issues)! Interested in helping with current libraries? Check out the [CircuitPython.org Contributing page](https://circuitpython.org/contributing). We've included open pull requests and issues from the libraries, and details about repo-level issues that need to be addressed. We have a guide on [contributing to CircuitPython with Git and Github](https://learn.adafruit.com/contribute-to-circuitpython-with-git-and-github) if you need help getting started. You can also find us in the #circuitpython channel on the [Adafruit Discord](https://adafru.it/discord). Feel free to contact Kattni (@kattni) with any questions.
+If you'd like to contribute, CircuitPython libraries are a great place to start. Have an idea for a new driver? File an issue on [CircuitPython](https://github.com/adafruit/circuitpython/issues)! Have you written a library you'd like to make available? Submit it to the [CircuitPython Community Bundle](https://github.com/adafruit/CircuitPython_Community_Bundle). Interested in helping with current libraries? Check out the [CircuitPython.org Contributing page](https://circuitpython.org/contributing). We've included open pull requests and issues from the libraries, and details about repo-level issues that need to be addressed. We have a guide on [contributing to CircuitPython with Git and Github](https://learn.adafruit.com/contribute-to-circuitpython-with-git-and-github) if you need help getting started. You can also find us in the #circuitpython channel on the [Adafruit Discord](https://adafru.it/discord).
 
-You can check out this [list of all the CircuitPython libraries and drivers available](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md). 
+You can check out this [list of all the Adafruit CircuitPython libraries and drivers available](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md). 
 
 The current number of CircuitPython libraries is **###**!
 
@@ -110,77 +166,59 @@ Here's this week's updated CircuitPython libraries:
 
 * [library](url)
 
-**PyPI Download Stats!**
-
-We've written a special library called Adafruit Blinka that makes it possible to use CircuitPython Libraries on [Raspberry Pi and other compatible single-board computers](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/). Adafruit Blinka and all the CircuitPython libraries have been deployed to PyPI for super simple installation on Linux! Here are the top 10 CircuitPython libraries downloaded from PyPI in the last week, including the total downloads for those libraries:
-
-KATTNI TABLE HERE
-
 ## What’s the team up to this week?
 
 What is the team up to this week? Let’s check in!
 
-**Bryan**
-
-[![Bryan](../assets/20200mdd/20200mddbryan.jpg)](https://circuitpython.org/)
-
-
-
 **Dan**
 
-[![Dan](../assets/20200mdd/20200mdddan.jpg)](https://circuitpython.org/)
+[![Dan](../assets/2021mmdd/2021mmdddan.jpg)](https://circuitpython.org/)
 
-
+text
 
 **Jeff**
 
-[![Jeff](../assets/20200mdd/20200mddjeff.jpg)](https://circuitpython.org/)
+[![Jeff](../assets/2021mmdd/2021mmddjeff.jpg)](https://circuitpython.org/)
 
-
+text
 
 **Kattni**
 
-[![Kattni](../assets/20200mdd/20200mddkattni.jpg)](https://circuitpython.org/)
+[![Kattni](../assets/2021mmdd/2021mmddkattni.jpg)](https://circuitpython.org/)
 
-
+text
 
 **Lucian**
 
-[![Lucian](../assets/20200mdd/20200mddlucian.jpg)](https://circuitpython.org/)
+[![Lucian](../assets/2021mmdd/2021mmddlucian.jpg)](https://circuitpython.org/)
 
-
+text
 
 **Melissa**
 
-[![Melissa](../assets/20200mdd/20200mddmelissa.jpg)](https://circuitpython.org/)
+[![Melissa](../assets/2021mmdd/2021mmddmelissa.jpg)](https://circuitpython.org/)
 
-
+text
 
 **Scott**
 
-[![Scott](../assets/20200mdd/20200mddscott.jpg)](https://circuitpython.org/)
+[![Scott](../assets/2021mmdd/2021mmddscott.jpg)](https://circuitpython.org/)
 
-
+text
 
 ## Upcoming events!
 
-[![PyCon US 2020](../assets/20200407/20200407pycon.jpg)](https://us.pycon.org/2020/remote/)
+[![EuroPython 2021](../assets/2021mmdd/2021mmddeuropython.jpg)](https://ep2021.europython.eu/)
 
-The PyCon US 2020 team announces planned talks, tutorials, posters, and much more online. 
+EuroPython, the largest conference for the Python programming language in Europe, has been announced to be held online July 26 - August 1, 2021. More information at [https://ep2021.europython.eu/](https://ep2021.europython.eu/)
 
-To participate, Go to the [PyCon US 2020 Remote page](https://us.pycon.org/2020/remote/) to subscribe to receive 5-8 email notifications over the next 6 weeks for published online content. Also you may subscribe to the [PyCon 2020 YouTube Channel](https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA). Expected content:
+[![PyOhio](../assets/2021mmdd/2021mmddpyohio.jpg)](https://www.pyohio.org/2021/)
 
-- Recorded talks and tutorials
-- Online Summit and Hatchery programs
-- Poster presenters sharing their creations
-- Startup Row company presentations
-- Sponsor workshop videos and job postings
+Call for proposals for PyOhio 2021 runs from March 15 - May 2, 2021 with the free event on July 31, 2021- [PyOhio.org](https://www.pyohio.org/2021/) via [Twitter](https://twitter.com/PyOhio/status/1370184124460367881).
 
-The organizers appreciate the community’s patience as they work through the logistics of gathering and uploading the recordings.  The goal is to begin providing content about April 15, 2020, right when PyCon was scheduled to begin.
+[![PyConline AU](../assets/2021mmdd/2021mmddpyconau.png)](https://2021.pycon.org.au/)
 
-[![IoTFuse2020](../assets/20200407/20200407iotfuse.jpg)](https://iotfuse.com/)
-
-IoTFuse is being billed as the world's first IoT-enabled virtual conference. April 14-16, 2020 - [Website](https://iotfuse.com/)
+Call for proposals for PyConline AU 2021 runs until June 10th, 2021 with the event held 10-12 September, 2021 - [pyconlineau](https://2021.pycon.org.au/)
 
 **Send Your Events In**
 
@@ -190,41 +228,49 @@ As for other events, with the COVID pandemic, most in-person events are postpone
 
 CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [#.#.#-##.#](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
 
-[2019####](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
+[2021####](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest CircuitPython library bundle.
 
 [v#.#.#](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
 
 [#.#.#](https://www.python.org/downloads/) is the latest Python release. The latest pre-release version is [#.#.#](https://www.python.org/download/pre-releases/).
 
-[### Stars](https://github.com/adafruit/circuitpython/stargazers) Like CircuitPython? [Star it on GitHub!](https://github.com/adafruit/circuitpython)
+[#### Stars](https://github.com/adafruit/circuitpython/stargazers) Like CircuitPython? [Star it on GitHub!](https://github.com/adafruit/circuitpython)
 
-## Call for help – CircuitPython messaging to other languages!
+## Call for help -- Translating CircuitPython is now easier than ever!
 
-[![Hello world](../assets/DIR-LOCATION/DATE-helloworld.jpg)](https://github.com/adafruit/circuitpython/issues/1098)
+[![CircuitPython translation statistics on weblate](../assets/2021mmdd/2021mmddweblate.jpg)](https://hosted.weblate.org/engage/circuitpython/)
 
-We [recently posted on the Adafruit blog](https://blog.adafruit.com/2018/08/15/help-bring-circuitpython-messaging-to-other-languages-circuitpython/) about bringing CircuitPython messaging to other languages, one of the exciting features of CircuitPython 4 and later versions is translated control and error messages. Native language messages will help non-native English speakers understand what is happening in CircuitPython even though the Python keywords and APIs will still be in English. If you would like to help, [please post](https://github.com/adafruit/circuitpython/issues/1098) to the main issue on GitHub and join us on [Discord](https://adafru.it/discord).
+One important feature of CircuitPython is translated control and error messages.
 
-We made this graphic with translated text, we could use your help with that to make sure we got the text right, please check out the text in the image – if there is anything we did not get correct, please let us know. Dan sent me this [handy site too](http://helloworldcollection.de/#Human).
+With the help of fellow open source project [Weblate](https://weblate.org/), we're making it even easier to add or improve translations.
+
+Sign in with an existing account such as GitHub, Google or Facebook and start contributing through a simple web interface. No forks or pull requests needed!
+
+As always, if you run into trouble join us on [Discord](https://adafru.it/discord), we're here to help.
 
 ## jobs.adafruit.com - Find a dream job, find great candidates!
 
-[![jobs.adafruit.com](../assets/DIR-LOCATION/DATE-jobs.jpg)](https://jobs.adafruit.com/)
+[![jobs.adafruit.com](../assets/2021mmdd/jobs.jpg)](https://jobs.adafruit.com/)
 
-[jobs.adafruit.com](https://jobs.adafruit.com/) has returned and folks are posting their skills (including CircuitPython) and companies are looking for talented makers to join their companies - from Digi-Key, to Hackaday, Microcenter, Raspberry Pi and more.
+[jobs.adafruit.com](https://jobs.adafruit.com/) has returned and folks are posting their skills (including CircuitPython) and companies are looking for talented makers to join their companies - from Digi-Key, to Hackaday, Micro Center, Raspberry Pi and more.
+
+**Job of the Week**
+
+text - [Adafruit Jobs Board](https://jobs.adafruit.com/).
 
 ## NUMBER thanks!
 
-[![NUMBER THANKS](../assets/DIR-LOCATION/DATE-17kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/2021mmdd/29kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
-The Adafruit Discord community, where we do all our CircuitPython development in the open, reached over NUMBER humans, thank you! Join today! [https://adafru.it/discord](https://adafru.it/discord)
+The Adafruit Discord community, where we do all our CircuitPython development in the open, reached over NUMBER humans, thank you!  Adafruit believes Discord offers a unique way for CircuitPython folks to connect. Join today at [https://adafru.it/discord](https://adafru.it/discord).
 
 ## ICYMI - In case you missed it
 
-[![ICYMI](../assets/DIR-LOCATION/DATE-icymi.jpg)](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
+[![ICYMI](../assets/2021mmdd/2021mmddicymi.jpg)](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
 
-The wonderful world of Python on hardware! This is our first video-newsletter-podcast that we’ve started! The news comes from the Python community, Discord, Adafruit communities and more. It’s part of the weekly newsletter, then we have a segment on ASK an ENGINEER and this is the video slice from that! The complete Python on Hardware weekly videocast [playlist is here](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev). 
+The wonderful world of Python on hardware! This is our Python video-newsletter-podcast! The news comes from the Python community, Discord, Adafruit communities and more and is reviewed on ASK an ENGINEER Wednesdays. The complete Python on Hardware weekly videocast [playlist is here](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev). 
 
 This video podcast is on [iTunes](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2), [YouTube](http://adafru.it/pohepisodes), [IGTV (Instagram TV](https://www.instagram.com/adafruit/channel/)), and [XML](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2).
 
@@ -234,7 +280,7 @@ And lastly, we are working up a one-spot destination for all things podcast-able
 
 ## Codecademy "Learn Hardware Programming with CircuitPython"
 
-[![Codecademy CircuitPython](../assets/DIR-LOCATION/DATE-codecademy_python.png)](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=pythononhardwarenewsletter)
+[![Codecademy CircuitPython](../assets/2021mmdd/codecademy_python.png)](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=pythononhardwarenewsletter)
 
 Codecademy, an online interactive learning platform used by more than 45 million people, has teamed up with the leading manufacturer in STEAM electronics, Adafruit Industries, to create a coding course, "Learn Hardware Programming with CircuitPython". The course is now available in the [Codecademy catalog](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=pythononhardwarenewsletter).
 
@@ -250,4 +296,6 @@ Codecademy has helped more than 45 million people around the world upgrade their
 
 ## Contribute!
 
-The CircuitPython Weekly Newsletter is a CircuitPython community-run newsletter emailed every Tuesday. The complete [archives are here](https://www.adafruitdaily.com/category/circuitpython/). It highlights the latest CircuitPython related news from around the web including Python and MicroPython developments. To contribute, edit next week's draft [on GitHub](https://github.com/adafruit/circuitpython-weekly-newsletter/tree/gh-pages/_drafts) and [submit a pull request](https://help.github.com/articles/editing-files-in-your-repository/) with the changes. Join our [Discord](https://adafru.it/discord) or [post to the forum](https://forums.adafruit.com/viewforum.php?f=60) for any further questions.
+The CircuitPython Weekly Newsletter is a CircuitPython community-run newsletter emailed every Tuesday. The complete [archives are here](https://www.adafruitdaily.com/category/circuitpython/). It highlights the latest CircuitPython related news from around the web including Python and MicroPython developments. To contribute, edit next week's draft [on GitHub](https://github.com/adafruit/circuitpython-weekly-newsletter/tree/gh-pages/_drafts) and [submit a pull request](https://help.github.com/articles/editing-files-in-your-repository/) with the changes. You may also tag your information on Twitter with #CircuitPython. 
+
+Join our [Discord](https://adafru.it/discord) or [post to the forum](https://forums.adafruit.com/viewforum.php?f=60) for any further questions.
