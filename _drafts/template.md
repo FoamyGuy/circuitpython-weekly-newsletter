@@ -100,7 +100,7 @@ Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlis
 
 **The CircuitPython Show**
 
-[![The CircuitPython Show](../assets/2025mmdd/cpshow.jpg)]
+[![The CircuitPython Show](../assets/2025mmdd/cpshow.jpg)](https://www.circuitpythonshow.com)
 
 The CircuitPython Show has returned after a one year hiatus! In the latest episode, host Paul Cutler interviews xxxx - [The CircuitPython Show](https://www.circuitpythonshow.com)
 
