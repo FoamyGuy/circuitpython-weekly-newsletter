@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: December 20, 2024 - change up for 2025
+Last changed: January 17, 2025 - readd CP Show
 
 News Sources
 
@@ -97,6 +97,12 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 John Park’s CircuitPython Parsec this week is on {subject} - [Adafruit Blog](link) and [YouTube](link).
 
 Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr).
+
+**The CircuitPython Show**
+
+[![The CircuitPython Show](../assets/2025mmdd/cpshow.jpg)]
+
+The CircuitPython Show has returned after a one year hiatus! In the latest episode, host Paul Cutler interviews xxxx - [The CircuitPython Show](https://www.circuitpythonshow.com)
 
 **CircuitPython Weekly Meeting**
 
